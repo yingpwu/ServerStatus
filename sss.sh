@@ -7,7 +7,7 @@
 #   Github: https://github.com/lidalao/ServerStatus
 #========================================================
 
-GITHUB_RAW_URL="https://raw.githubusercontent.com/lidalao/ServerStatus/master"
+GITHUB_RAW_URL="https://raw.githubusercontent.com/yingpwu/ServerStatus/master"
 
 red='\033[0;31m'
 green='\033[0;32m'
