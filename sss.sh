@@ -4,7 +4,7 @@
 #   System Required: CentOS 7+ / Debian 8+ / Ubuntu 16+ /
 #     Arch 未测试
 #   Description: Server Status 监控安装脚本
-#   Github: https://github.com/lidalao/ServerStatus
+#   Github: https://github.com/yingpwu/ServerStatus
 #========================================================
 
 GITHUB_RAW_URL="https://raw.githubusercontent.com/yingpwu/ServerStatus/master"
