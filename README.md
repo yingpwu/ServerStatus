@@ -1,4 +1,8 @@
 # 介绍
+再次基于lindalao版本修改,自用serverstatus
+
+
+
 项目基于cppla版本ServerStatus， 增加如下功能：
 
 - 更方便的节点管理, 支持增删改查
